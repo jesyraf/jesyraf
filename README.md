@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Psychology, AI
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Python and SQL projects
-- 📫 How to reach me aokin03@gmail.com
+- 📫 How to reach me farysejaleksander@gmail.com
 
 <!---
 jesyraf/jesyraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
