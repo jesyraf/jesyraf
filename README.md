@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesyraf
-- 👀 I’m interested in Data Science, Psychology, AI
+- 👀 I’m interested in Data Science, Psychology
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Python and SQL projects
 - 📫 How to reach me farysejaleksander@gmail.com
