@@ -1,6 +1,6 @@
 I’m currently learning Python and SQL
 
-Check out my Python and SQL Projects
+Check out my projects!
 
 📫 How to reach me farysejaleksander@gmail.com
 
